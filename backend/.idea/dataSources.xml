@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="twitch@laiproject1twitch.cuqbpiyjxi7a.us-east-2.rds.amazonaws.com" uuid="9a9bb0e1-06ca-4e32-8fe5-30f84c8328d2">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://laiproject1twitch.cuqbpiyjxi7a.us-east-2.rds.amazonaws.com:3306/twitch</jdbc-url>
+    </data-source>
+  </component>
+</project>
